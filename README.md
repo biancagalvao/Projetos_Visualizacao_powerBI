@@ -1,4 +1,4 @@
-# Projetos_de_estudo
+# Projetos de estudo
 Projetos de estudo realizados durante os cursos.
 
 * Projeto 1) Análise de uma rede de lojas:
