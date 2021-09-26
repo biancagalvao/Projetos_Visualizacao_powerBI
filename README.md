@@ -1,8 +1,7 @@
 # Projetos de estudo
 Projetos de estudo realizados durante os cursos.
 
-## Projeto 1
-Análise de uma rede de lojas. 
+## Projeto 1 - Dashboard de Análise de uma rede de lojas.
 
 Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiYzUzYTk5OTQtYWNiMS00OGE5LTgyMDItZDhhY2VjODY2ZWZiIiwidCI6ImJiYmZhMzgwLTQyNTMtNDhkMi04ZWFhLWZmMDJjZTQ5ODU5ZiJ9&pageName=ReportSection" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
 
