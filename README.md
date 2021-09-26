@@ -13,4 +13,5 @@ Analisar os custos nas vendas, as ocorrências e seus motivos, a receita bruta p
 Obter insights sobre o negócio, como por exemplo, se alguma filial gera custos insustentáveis, se algum setor dá mais retorno que outro, que ocorrências podem ser eliminadas, etc.
 
 ### Preview
-![image](https://user-images.githubusercontent.com/90691653/134817644-f7d97d8b-49f9-4f86-a470-e726136c98a0.png)
+<img align="left" width="300" height="150" src="https://user-images.githubusercontent.com/90691653/134817644-f7d97d8b-49f9-4f86-a470-e726136c98a0.png">
+
