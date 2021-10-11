@@ -18,7 +18,7 @@ Obter insights sobre o negócio, como por exemplo, se alguma filial gera custos 
 
 ## Projeto 2 - Dashboard de resultado de vendas de uma revendedora de veículos - DSA.
 
-Link: <a href="https://app.powerbi.com/groups/me/reports/0cdb584d-ef75-4983-b087-9d46f35737f1/ReportSection" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
+Link: <a href="https://app.powerbi.com/view?r=eyJrIjoiNTE1ZTdiMjItNGIxOC00Mzg1LTg5NzItMTM2YTcwNmI3OGYzIiwidCI6ImJiYmZhMzgwLTQyNTMtNDhkMi04ZWFhLWZmMDJjZTQ5ODU5ZiJ9" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
 
 ### Proposta: 
 Construir um Dashboard que represente os dados de vendas no período de 2016 a 2019.
