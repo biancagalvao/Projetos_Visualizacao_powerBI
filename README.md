@@ -1,4 +1,4 @@
-# Projetos de estudo
+# Projetos de Visualização no Power BI
 Projetos de estudo realizados durante os cursos.
 
 ## Projeto 1 - Dashboard de Análise de uma rede de lojas - FLAI.
